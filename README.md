@@ -12,7 +12,7 @@
 
 #git push -u origin main
 
-#git pull origin main
+#git pull -u origin main
 
 #ls -> list contents of the current folder
 
