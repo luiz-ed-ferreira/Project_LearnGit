@@ -1,10 +1,12 @@
-#This is an example of a README that demonstrates the connection between WSL and GitHub via this repository.
+#This is an example of a README that demonstrates the connection between WSL and GitHub via this repository and the versions code.
 
-#git init
+#git init -> to reinitialized too
 
-#git add README.md
+#git clone -> to copy the repository
 
-#git commit -m "first commit"
+#git add "README.md" (or "." to add all files)
+
+#git commit -m "Description commit"
 
 #git branch -M main
 
