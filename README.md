@@ -1,5 +1,9 @@
 #This is an example of a README that demonstrates the connection between WSL and GitHub via this repository and the versions code.
 
+#git status
+
+#git log -> to close press "q"
+
 #git init -> to reinitialized too
 
 #git clone -> to copy the repository
