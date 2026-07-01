@@ -44,4 +44,4 @@
 
 #git branch -D header (to delete fully)
 
-#git merge
+#git merge header
