@@ -39,3 +39,7 @@
 #git branch header
 
 #git checkout header
+
+#git branch -d header (to delete if is empty / better to check)
+
+#git branch -D header (to delete fully)
